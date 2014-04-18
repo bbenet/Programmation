@@ -11,3 +11,7 @@ html
   -moz-background-size: cover; /* pour Firefox */
   background-size: cover; /* version standardisée */
 }
+#interet
+{
+	width:25%; /*Largeur max pour pas dépasser*/
+}
