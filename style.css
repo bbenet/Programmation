@@ -1,0 +1,14 @@
+h1{text-align:center;}
+p{font-style:italic;}
+body 
+{
+	font-family:'Open Sans';
+}
+html 
+{ 
+  margin:0;
+  padding:0;
+  background: url("fromage.jpg") no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour Chrome et Safari */
+  -moz-background-size: cover; /* pour Firefox */
+  background-size: cover; /* version standardisée */
