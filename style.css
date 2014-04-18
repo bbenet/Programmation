@@ -1,5 +1,10 @@
 h1{text-align:center;}
-p{font-style:italic;}
+p
+{
+	font-style:italic;
+	justify;
+}
+
 body 
 {
 	font-family:'Open Sans';
@@ -8,10 +13,18 @@ html
 { 
   background: url("images/wallpaper.jpg") no-repeat center fixed; 
   -webkit-background-size: cover; /* pour Chrome et Safari */
-  -moz-background-size: cover; /* pour Firefox */
   background-size: cover; /* version standardisée */
 }
+
 #interet
 {
 	width:25%; /*Largeur max pour pas dépasser*/
+}
+#entete
+{
+	text-align:center;
+}
+#tiret
+{
+	list-style
 }
